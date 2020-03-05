@@ -1,0 +1,45 @@
+_repo: Lafayette-in-America-in-1824-and-1825-Vol-1-of-2-Or-Journal-of-a-Voyage-to-the-United-States_61518
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Godman, John D. (John Davidson)
+    alias: Godman, John Davidson
+    birthdate: 1794
+    deathdate: 1830
+    gutenberg_agent_id: '38188'
+    url: http://www.gutenberg.org/2009/agents/38188
+creator:
+  author:
+    agent_name: Levasseur, Auguste
+    alias: Lavasseur, A. (Auguste)
+    birthdate: 1795
+    deathdate: 1878
+    gutenberg_agent_id: '51473'
+    url: http://www.gutenberg.org/2009/agents/51473
+    wikipedia: https://en.wikipedia.org/wiki/Auguste_Levasseur
+description: ''
+gutenberg_issued: '2020-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Levasseur, Auguste, 1795-1878 -- Travel -- United States'
+- !lcsh 'Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834
+  -- Travel -- United States'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Anniversaries, etc.'
+- !lcsh 'United States -- Social life and customs -- 19th century'
+- !lcsh 'United States -- Relations -- France'
+- !lcc 'E201'
+- !lcsh 'Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834
+  -- Friends and associates'
+- !lcsh 'France -- Relations -- United States'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Levasseur, Auguste, 1795-1878 -- Diaries'
+- GITenberg
+title: "Lafayette in America in 1824 and 1825, Vol. 1 (of 2)\r\nOr, Journal of a Voyage\
+  \ to the United States"
+url: http://www.gutenberg.org/ebooks/61518
